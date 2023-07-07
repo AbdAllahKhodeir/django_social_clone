@@ -1,1 +1,2 @@
-# django_social_clone
+# A Social Clone App using the Django Framework
+
